@@ -1,0 +1,6 @@
+.font-theme {
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Patua One', cursive;
+    font-family: 'Play', sans-serif;
+    font-family: 'Rubik Mono One', sans-serif;
+}
